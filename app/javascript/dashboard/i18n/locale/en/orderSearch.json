@@ -1,0 +1,59 @@
+{
+  "ORDER_SEARCH": {
+    "SEARCH_PLACEHOLDER": "Search order by ID",
+    "SEARCH_BUTTON": "Search",
+    "ORDER_NUMBER": "Order #{{ number }}",
+    "STATUS": "Status",
+    "DATE": "Date",
+    "CUSTOMER": "Customer",
+    "TOTAL_AMOUNT": "Total Amount",
+    "CURRENCY": "${{ amount }}",
+    "ITEMS": "Items",
+    "SHIPPING_ADDRESS": "Shipping Address",
+    "NO_RESULTS": "No orders found for \"{{ query }}\". Please try another ID.",
+    "EMPTY_STATE": "Search for an order by ID to view details",
+    "LOADING": "Loading...",
+    
+    "DATES": "Dates",
+    "CREATED": "Created",
+    "EXPECTED_START": "Expected Start",
+    "EXPECTED_END": "Expected End",
+    "ACTUAL_START": "Actual Start",
+    "ACTUAL_END": "Actual End",
+    
+    "TIME_AND_COST": "Time and Cost",
+    "EXPECTED_TIME": "Expected Time",
+    "ACTUAL_TIME": "Actual Time",
+    "EXPECTED_AMOUNT": "Expected Amount",
+    "ACTUAL_AMOUNT": "Actual Amount",
+    "MINUTES": "min",
+    
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "GENDER": "Gender",
+    
+    "SERVICE": "Service",
+    "BASE_PRICE": "Base Price",
+    
+    "ADDRESS": "Address",
+    "COORDINATES": "Coordinates",
+    
+    "ADDITIONAL_CHARGES": "Additional Charges",
+    "TYPE": "Type",
+    "AMOUNT": "Amount",
+    "REMARK": "Remark",
+    "TOTAL": "Total",
+    
+    "WORKER": "Worker",
+    "CONTRACTOR": "Contractor",
+    "ACTIVE": "Active",
+    "COMMISSION": "Commission",
+    "YES": "Yes",
+    "NO": "No",
+    
+    "REMARKS": "Remarks",
+    "USER_REMARK": "Customer Remark",
+    "WORKER_REMARK": "Worker Remark"
+  }
+} 
